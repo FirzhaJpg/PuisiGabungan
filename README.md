@@ -30,9 +30,9 @@ Android SDK
 
 Library Pendukung:
 
-RecyclerView (untuk daftar puisi)
+RecyclerView 
 
-Room Database (jika ada penyimpanan lokal)
+Room Database 
 
 Material Design Components
 
@@ -41,6 +41,7 @@ Clone repositori ini:
 
 bash
 git clone https://github.com/FirzhaJpg/PuisiGabungan.git
+
 Buka projek di Android Studio.
 
 Build dan jalankan di emulator atau perangkat fisik.

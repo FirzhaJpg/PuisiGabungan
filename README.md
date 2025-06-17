@@ -40,7 +40,7 @@ Material Design Components
 Clone repositori ini:
 
 bash
-git clone https://github.com/username/repo-puisi-android.git
+git clone https://github.com/FirzhaJpg/PuisiGabungan.git
 Buka projek di Android Studio.
 
 Build dan jalankan di emulator atau perangkat fisik.
